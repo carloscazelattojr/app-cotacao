@@ -2,6 +2,12 @@
 
 App desenvolvido em Expo React Native;
 
+## Tecnologia
+
+- expo-router
+- react native
+- node (lts/hydrogen)
+
 ## API
 
 ```
